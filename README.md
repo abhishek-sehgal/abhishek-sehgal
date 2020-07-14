@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I'm currently employed as Senior Research Engineer at Samsung Research America. I graduated with a Ph.D. from the University of Texas at Dallas 
 
 - 🔭 I’m currently working on Wireless Applied Research using mmWave and sub-6 GHz Wi-Fi.
-- 💬 Ask me about iOS and Android based DSP and Machine Learning implementations.
+- 💬 Ask me about iOS and Android based DSP and Machine Learning implementations (especially for Audio and Wireless).
 - The repositories forked from SIP-Lab are my Ph.D. work at the Signal and Image Processing Lab under Dr. Nasser Kehtarnavaz
