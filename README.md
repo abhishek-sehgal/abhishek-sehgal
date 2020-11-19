@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=PyTorch&logoColor=red&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SciKit-Learn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+
 
 
 I'm currently employed as Senior Research Engineer at Samsung Research America. I graduated with a Ph.D. from the University of Texas at Dallas 
