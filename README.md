@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=PyTorch&logoColor=red&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SciKit-Learn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+
+
 I'm currently employed as Senior Research Engineer at Samsung Research America. I graduated with a Ph.D. from the University of Texas at Dallas 
 
 - 🔭 I’m currently working on Wireless Applied Research using mmWave and sub-6 GHz Wi-Fi.
