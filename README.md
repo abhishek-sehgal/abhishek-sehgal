@@ -21,4 +21,10 @@ I'm currently employed as Senior Research Engineer at Samsung Research America. 
 - 💬 Ask me about iOS and Android based DSP and Machine Learning implementations (especially for Audio and Wireless).
 - **The repositories forked from SIP-Lab are my Ph.D. work at the Signal and Image Processing Lab under Dr. Nasser Kehtarnavaz**
 
-![abhishek-sehgal Stats](https://github-readme-stats.vercel.app/api?username=abhishek-sehgal&show_icons=true&theme=radical)
+![abhishek-sehgal Stats](https://github-readme-stats.vercel.app/api?username=abhishek-sehgal&show_icons=true&theme=gotham)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=CNN-VAD&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/CNN-VAD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=Deep-Learning-Mobile&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/Deep-Learning-Mobile)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=Integrated-Hearing-Aid-App&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/Integrated-Hearing-Aid-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=iOS-TwoExternalMics&show_icons=true&theme=gotham)](https://github.com/iOS-TwoExternalMics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=Smartphone-Research-Platform&show_icons=true&theme=gotham)](https://github.com/Smartphone-Research-Platform)
