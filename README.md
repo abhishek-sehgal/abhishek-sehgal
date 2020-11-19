@@ -19,3 +19,5 @@ I'm currently employed as Senior Research Engineer at Samsung Research America. 
 - 🔭 I’m currently working on Wireless Applied Research using mmWave and sub-6 GHz Wi-Fi.
 - 💬 Ask me about iOS and Android based DSP and Machine Learning implementations (especially for Audio and Wireless).
 - **The repositories forked from SIP-Lab are my Ph.D. work at the Signal and Image Processing Lab under Dr. Nasser Kehtarnavaz**
+
+![abhishek-sehgal Stats](https://github-readme-stats.vercel.app/api?username=abhishek-sehgal&show_icons=true&theme=radical)
