@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 As a Staff Research Engineer at Samsung Research America, I am currently focused on wireless applied research utilizing mmWave and sub-7 Ghz Wi-Fi technologies.
+- 🔭 As a Staff Research Engineer 2 at Samsung Research America, I am currently focused on wireless applied research utilizing mmWave and sub-7 Ghz Wi-Fi technologies.
 - 💬 I would be happy to discuss my work on implementing DSP and ML solutions for iOS and Android, particularly in the areas of Audio and Wireless.
 - **The repositories forked from SIP-Lab are my Ph.D. work at the Signal and Image Processing Lab under  the guidance of Dr. Nasser Kehtarnavaz**
 
