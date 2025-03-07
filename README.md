@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 I would be happy to discuss my work on implementing DSP and ML solutions for iOS and Android, particularly in the areas of Audio and Wireless.
 - **The repositories forked from SIP-Lab are my Ph.D. work at the Signal and Image Processing Lab under  the guidance of Dr. Nasser Kehtarnavaz**
 
-[![CNN-VAD](https://abhishek-sehgal-cnn-vad.hf.space)]
+[CNN-VAD HuggingFace Spaces](https://abhishek-sehgal-cnn-vad.hf.space)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SIP-Lab&repo=CNN-VAD&show_icons=true&theme=gotham)](https://github.com/SIP-Lab/CNN-VAD)
